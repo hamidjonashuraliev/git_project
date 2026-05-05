@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 <!-- fullWidth: false tocVisible: true tableWrap: true -->
 # ⚽ Football Match Analytics & Prediction PipVeline
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)\
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)\
+=======
+# ⚽ Football Match Analytics & Prediction Pipeline
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+>>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 > 🎯 Futbol o'yinlari ma'lumotlarini qayta ishlash va natijalarni bashorat qilish tizimi
@@ -22,6 +30,7 @@ Bu Data Science loyiha futbol o'yinlari statistikasini bosqichma-bosqich qayta i
 
 ## 📁 Loyiha tuzilmasi
 
+<<<<<<< HEAD
 📦 football-analytics-pipeline/\
 ├── 📁 Data/\
 │ ├── 📁 Raw_Data/ # Xom ma'lumotlar (asl dataset)\
@@ -48,6 +57,34 @@ Bu Data Science loyiha futbol o'yinlari statistikasini bosqichma-bosqich qayta i
 ├── 📁 models/ # O'rgatilgan modellar\
 ├── 📁 results/ # Natijalar va vizualizatsiyalar\
 ├── 📄 ReadMe.md # Loyiha hujjati\
+=======
+📦 football-analytics-pipeline/
+├── 📁 Data/
+│ ├── 📁 Raw_Data/ # Xom ma'lumotlar (asl dataset)
+│ │ └── 📄 football_matches.csv # 98 ustunli o'yin statistikasi
+│ │
+│ ├── 📁 Preprocessed_Data/ # Tozalangan ma'lumotlar
+│ │ ├── 📄 cleaned_matches.csv # Null/outlier tozalangan
+│ │ ├── 📄 encoded_data.csv # Kategorik ustunlar kodlangan
+│ │ └── 📄 normalized_data.csv # Normalizatsiya qilingan
+│ │
+│ └── 📁 Engineered_Data/ # Yangi feature'lar qo'shilgan
+│ ├── 📄 final_features.csv # Train uchun tayyor ma'lumot
+│ ├── 📄 feature_importance.csv # Feature muhimlik darajasi
+│ └── 📄 train_test_split.csv # Split qilingan ma'lumot
+│
+├── 📁 scripts/
+│ ├── 🐍 data_load.py # Raw data yuklash
+│ ├── 🐍 data_preprocessing.py # Preprocessing pipeline
+│ ├── 🐍 feature_engineering.py # Feature yaratish
+│ ├── 🐍 train.py # Model o'rgatish
+│ ├── 🐍 evaluate.py # Model baholash
+│ └── 🐍 test.py # Bashorat va test
+│
+├── 📁 models/ # O'rgatilgan modellar
+├── 📁 results/ # Natijalar va vizualizatsiyalar
+├── 📄 ReadMe.md # Loyiha hujjati
+>>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 └── 📄 requirements.txt # Python dependencies
 
 ## 🔄 Ma'lumot Pipeline
@@ -328,7 +365,11 @@ Away_Defense_Efficiency,0.08,Defense Strength
 
 ## 🚀 Ishlatish bo'yicha qo'llanma
 
+<<<<<<< HEAD
 ### 1\. O'rnatish
+=======
+### 1. O'rnatish
+>>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 
 ```bash
 # Loyihani klonlash
@@ -344,7 +385,11 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 
+<<<<<<< HEAD
 ### 2\. Pipeline ishga tushirish
+=======
+### 2. Pipeline ishga tushirish
+>>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 
 **Bosqichma-bosqich:**
 
@@ -455,6 +500,7 @@ def engineer_features():
 
 ## 📊 Ma'lumot oqimi
 
+<<<<<<< HEAD
 ┌─────────────────────────────────────────────────────────┐\
 │ DATA PIPELINE │\
 ├─────────────────────────────────────────────────────────┤\
@@ -473,10 +519,31 @@ def engineer_features():
 │ ↓ │\
 │ 🎯 Predictions │\
 │ │\
+=======
+┌─────────────────────────────────────────────────────────┐
+│ DATA PIPELINE │
+├─────────────────────────────────────────────────────────┤
+│ │
+│ 📥 Raw_Data (3800 o'yin, 98 ustun) │
+│ ↓ │
+│ 🧹 Cleaned (null tozalangan) │
+│ ↓ │
+│ 🔢 Encoded (kategorik → raqam) │
+│ ↓ │
+│ 📏 Normalized (standartlashtirilgan) │
+│ ↓ │
+│ 🏗️ Engineered (60+ yangi feature) │
+│ ↓ │
+│ 🤖 Model Training │
+│ ↓ │
+│ 🎯 Predictions │
+│ │
+>>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 └─────────────────────────────────────────────────────────┘
 
 ## 🎯 Natijalar
 
+<<<<<<< HEAD
 **Ma'lumot sifati:**\
 Raw_Data:\
 ├── O'yinlar: 3800\
@@ -496,6 +563,27 @@ Engineered_Data:\
 Accuracy: 58.3%\
 Precision: 0.61\
 Recall: 0.58\
+=======
+**Ma'lumot sifati:**
+Raw_Data:
+├── O'yinlar: 3800
+├── Null: 245 (6.4%)
+└── Outliers: 78 (2.0%)
+Preprocessed_Data:
+├── O'yinlar: 3722 (78 outlier o'chirildi)
+├── Null: 0 (100% tozalandi)
+└── Encoded: ✅
+Engineered_Data:
+├── O'yinlar: 3722
+├── Asl feature'lar: 98
+├── Yangi feature'lar: 67
+└── Jami: 165 feature
+
+**Model Performance:**
+Accuracy: 58.3%
+Precision: 0.61
+Recall: 0.58
+>>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 F1-Score: 0.59
 
 ## 💡 Ma'lumot fayllarini tushunish
@@ -602,12 +690,23 @@ MIT License
 
 ---
 
+<<<<<<< HEAD
 ⭐ **Star qo'yishni unutmang!**\
 ╔════════════════════════════════════════╗\
 ║ Raw → Preprocessed → Engineered ║\
 ║ Data Pipeline Architecture 🚀 ║\
+=======
+⭐ **Star qo'yishni unutmang!**
+╔════════════════════════════════════════╗
+║ Raw → Preprocessed → Engineered ║
+║ Data Pipeline Architecture 🚀 ║
+>>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 ╚════════════════════════════════════════╝
 
 **Made with 📊, 🐍 and ⚽**
 
+<<<<<<< HEAD
 *"Data is the new oil, but preprocessing is the refinery."*
+=======
+_"Data is the new oil, but preprocessing is the refinery."_
+>>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
