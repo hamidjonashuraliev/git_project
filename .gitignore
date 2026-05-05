@@ -1,0 +1,19 @@
+# Virtual environment
+myenv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (agar katta bo‘lsa)
+*.pkl
+*.h5
+*.joblib
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
