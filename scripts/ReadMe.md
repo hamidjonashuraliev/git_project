@@ -1,18 +1,22 @@
-<<<<<<< HEAD
 <!-- fullWidth: false tocVisible: false tableWrap: true -->
+<<<<<<< HEAD
+
+<!-- fullWidth: false tocVisible: false tableWrap: true -->
+
+# ⚽ Football Match Outcome Prediction System
+
+# ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)\
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 # ⚽ Football Match Outcome Prediction System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)\
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)\
-=======
-# ⚽ Football Match Outcome Prediction System
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf\
+> > > > > > > ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 > 🎯 Futbol o'yinlari natijalarini bashorat qiluvchi Machine Learning tizimi
 
@@ -30,7 +34,7 @@ Bu Machine Learning loyiha futbol o'yinlari statistikasini tahlil qilib, o'yin n
 
 ## 📁 Loyiha tuzilmasi
 
-<<<<<<< HEAD
+# <<<<<<< HEAD\
 📦 football-match-prediction/\
 ├── 📁 scripts/\
 │ ├── 🐍 data_load.py # Ma'lumotlarni yuklash va dastlabki ko'rish\
@@ -43,23 +47,24 @@ Bu Machine Learning loyiha futbol o'yinlari statistikasini tahlil qilib, o'yin n
 ├── 📁 models/\
 │ └── 💾 trained_models.pkl # O'rgatilgan modellar\
 ├── 📁 notebooks/ # Jupyter notebooks (agar bo'lsa)\
-├── 📄 ReadMe.md # Loyiha hujjati\
-=======
-📦 football-match-prediction/
-├── 📁 scripts/
-│ ├── 🐍 data_load.py # Ma'lumotlarni yuklash va dastlabki ko'rish
-│ ├── 🐍 data_preprocessing.py # Ma'lumotlarni tozalash va feature engineering
-│ ├── 🐍 train.py # ML modellarni o'rgatish
-│ ├── 🐍 evaluate.py # Model baholash va metrikalar
-│ └── 🐍 test.py # Yangi o'yinlar uchun bashorat
-├── 📁 data/
-│ └── 📄 football_matches.csv # O'yin statistikasi (98 ustun)
-├── 📁 models/
-│ └── 💾 trained_models.pkl # O'rgatilgan modellar
-├── 📁 notebooks/ # Jupyter notebooks (agar bo'lsa)
+├── 📄 ReadMe.md # Loyiha hujjati\\
+
+📦 football-match-prediction/\
+├── 📁 scripts/\
+│ ├── 🐍 data_load.py # Ma'lumotlarni yuklash va dastlabki ko'rish\
+│ ├── 🐍 data_preprocessing.py # Ma'lumotlarni tozalash va feature engineering\
+│ ├── 🐍 train.py # ML modellarni o'rgatish\
+│ ├── 🐍 evaluate.py # Model baholash va metrikalar\
+│ └── 🐍 test.py # Yangi o'yinlar uchun bashorat\
+├── 📁 data/\
+│ └── 📄 football_matches.csv # O'yin statistikasi (98 ustun)\
+├── 📁 models/\
+│ └── 💾 trained_models.pkl # O'rgatilgan modellar\
+├── 📁 notebooks/ # Jupyter notebooks (agar bo'lsa)\
 ├── 📄 ReadMe.md # Loyiha hujjati
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
-└── 📄 requirements.txt # Python kutubxonalari
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf\
+> > > > > > > └── 📄 requirements.txt # Python kutubxonalari
 
 ## 🎯 Dataset tuzilmasi
 
@@ -101,10 +106,14 @@ Bu Machine Learning loyiha futbol o'yinlari statistikasini tahlil qilib, o'yin n
 ## 🚀 O'rnatish va ishga tushirish
 
 <<<<<<< HEAD
+
 ### 1\. Loyihani klonlash
-=======
-### 1. Loyihani klonlash
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
+
+===
+
+### 1\. Loyihani klonlash
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 
 ```bash
 git clone https://github.com/yourusername/football-match-prediction.git
@@ -112,10 +121,14 @@ cd football-match-prediction
 ```
 
 <<<<<<< HEAD
+
 ### 2\. Virtual muhit yaratish
-=======
-### 2. Virtual muhit yaratish
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
+
+===
+
+### 2\. Virtual muhit yaratish
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 
 ```bash
 # Virtual muhit
@@ -129,10 +142,14 @@ source venv/bin/activate
 ```
 
 <<<<<<< HEAD
+
 ### 3\. Kutubxonalarni o'rnatish
-=======
-### 3. Kutubxonalarni o'rnatish
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
+
+===
+
+### 3\. Kutubxonalarni o'rnatish
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 
 ```bash
 pip install -r requirements.txt
@@ -186,18 +203,19 @@ def show_dataset_info(df):
     print(df.isnull().sum())
 ```
 
-<<<<<<< HEAD
+# <<<<<<< HEAD\
 **Chiquvchi ma'lumot:**\
 ✅ Dataset yuklandi: 3800 o'yin\
 ✅ Ustunlar: 98\
-✅ Null qiymatlar: 12 (0.3%)\
-=======
-**Chiquvchi ma'lumot:**
-✅ Dataset yuklandi: 3800 o'yin
-✅ Ustunlar: 98
+✅ Null qiymatlar: 12 (0.3%)\\
+
+**Chiquvchi ma'lumot:**\
+✅ Dataset yuklandi: 3800 o'yin\
+✅ Ustunlar: 98\
 ✅ Null qiymatlar: 12 (0.3%)
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
-✅ Sana diapazoni: 2020-2024
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf\
+> > > > > > > ✅ Sana diapazoni: 2020-2024
 
 ---
 
@@ -590,7 +608,7 @@ echo "Natijalar 'results/' papkasida."
 
 ### Model Performance:
 
-<<<<<<< HEAD
+# <<<<<<< HEAD\
 Classification Metrics:\
 ├── Accuracy: 55-60%\
 ├── Precision: 0.58\
@@ -602,26 +620,27 @@ Class-wise Performance:\
 └── Away Win (A): 58% accuracy\
 Goals Prediction (Regression):\
 ├── FTHG MAE: 0.85 gol\
-├── FTAG MAE: 0.92 gol\
-=======
-Classification Metrics:
-├── Accuracy: 55-60%
-├── Precision: 0.58
-├── Recall: 0.56
-└── F1-Score: 0.57
-Class-wise Performance:
-├── Home Win (H): 65% accuracy
-├── Draw (D): 40% accuracy (eng qiyin)
-└── Away Win (A): 58% accuracy
-Goals Prediction (Regression):
-├── FTHG MAE: 0.85 gol
+├── FTAG MAE: 0.92 gol\\
+
+Classification Metrics:\
+├── Accuracy: 55-60%\
+├── Precision: 0.58\
+├── Recall: 0.56\
+└── F1-Score: 0.57\
+Class-wise Performance:\
+├── Home Win (H): 65% accuracy\
+├── Draw (D): 40% accuracy (eng qiyin)\
+└── Away Win (A): 58% accuracy\
+Goals Prediction (Regression):\
+├── FTHG MAE: 0.85 gol\
 ├── FTAG MAE: 0.92 gol
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
-└── R² Score: 0.72
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf\
+> > > > > > > └── R² Score: 0.72
 
 ### Top 10 muhim feature'lar:
 
-<<<<<<< HEAD
+# <<<<<<< HEAD\
 HST (Home Shots on Target) - 0.18\
 AST (Away Shots on Target) - 0.16\
 Home_Shot_Accuracy - 0.12\
@@ -630,23 +649,24 @@ HTHG (Half Time Home Goals) - 0.09\
 HTAG (Half Time Away Goals) - 0.08\
 HC (Home Corners) - 0.06\
 AC (Away Corners) - 0.05\
-Home_Attack_Strength - 0.04\
-=======
-HST (Home Shots on Target) - 0.18
-AST (Away Shots on Target) - 0.16
-Home_Shot_Accuracy - 0.12
-Away_Shot_Accuracy - 0.11
-HTHG (Half Time Home Goals) - 0.09
-HTAG (Half Time Away Goals) - 0.08
-HC (Home Corners) - 0.06
-AC (Away Corners) - 0.05
+Home_Attack_Strength - 0.04\\
+
+HST (Home Shots on Target) - 0.18\
+AST (Away Shots on Target) - 0.16\
+Home_Shot_Accuracy - 0.12\
+Away_Shot_Accuracy - 0.11\
+HTHG (Half Time Home Goals) - 0.09\
+HTAG (Half Time Away Goals) - 0.08\
+HC (Home Corners) - 0.06\
+AC (Away Corners) - 0.05\
 Home_Attack_Strength - 0.04
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
-HS (Home Shots) - 0.03
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf\
+> > > > > > > HS (Home Shots) - 0.03
 
 ## 🎯 Bashorat misollari
 
-<<<<<<< HEAD
+# <<<<<<< HEAD\
 **Real bashorat (2024 mavsumi):**\
 O'yin: Manchester City vs Arsenal\
 Bashorat: Home Win (H)\
@@ -658,22 +678,23 @@ Ehtimollik: 45%\
 Haqiqiy natija: 1-1 (D) ❌\
 O'yin: Tottenham vs Brighton\
 Bashorat: Draw (D)\
-Ehtimollik: 38%\
-=======
-**Real bashorat (2024 mavsumi):**
-O'yin: Manchester City vs Arsenal
-Bashorat: Home Win (H)
-Ehtimollik: 52%
-Haqiqiy natija: 3-1 (H) ✅
-O'yin: Chelsea vs Liverpool
-Bashorat: Away Win (A)
-Ehtimollik: 45%
-Haqiqiy natija: 1-1 (D) ❌
-O'yin: Tottenham vs Brighton
-Bashorat: Draw (D)
+Ehtimollik: 38%\\
+
+**Real bashorat (2024 mavsumi):**\
+O'yin: Manchester City vs Arsenal\
+Bashorat: Home Win (H)\
+Ehtimollik: 52%\
+Haqiqiy natija: 3-1 (H) ✅\
+O'yin: Chelsea vs Liverpool\
+Bashorat: Away Win (A)\
+Ehtimollik: 45%\
+Haqiqiy natija: 1-1 (D) ❌\
+O'yin: Tottenham vs Brighton\
+Bashorat: Draw (D)\
 Ehtimollik: 38%
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
-Haqiqiy natija: 2-2 (D) ✅
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf\
+> > > > > > > Haqiqiy natija: 2-2 (D) ✅
 
 ## 💡 Feature Engineering tushuntirishlari
 
@@ -784,14 +805,15 @@ MIT License - [LICENSE](LICENSE)
 
 ---
 
-<<<<<<< HEAD
+# <<<<<<< HEAD\
 ⭐ **Foydali bo'lsa, star qo'yishni unutmang!**\
 ╔══════════════════════════════════════╗\
 ║ Load → Process → Train → Predict ║\
 ║ Football ML Pipeline 🚀⚽ ║
-=======
-⭐ **Foydali bo'lsa, star qo'yishni unutmang!**
-╔══════════════════════════════════════╗
-║ Load → Process → Train → Predict ║
+
+⭐ **Foydali bo'lsa, star qo'yishni unutmang!**\
+╔══════════════════════════════════════╗\
+║ Load → Process → Train → Predict ║\
 ║ Football ML Pipeline 🚀⚽ ║
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf

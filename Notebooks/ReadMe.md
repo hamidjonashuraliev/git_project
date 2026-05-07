@@ -1,19 +1,19 @@
-<<<<<<< HEAD
 <!-- fullWidth: false tocVisible: false tableWrap: true -->
 # ⚽ Football Goals Prediction & Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
+# ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)\
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)\
-=======
-Ajoyib! Endi to'g'ri README.md yozaman - futbol go'llari tahlili va ML model loyihasi uchun! ⚽
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)\\\
+⚽
 markdown# ⚽ Football Goals Prediction & Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)\
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf\
+> > > > > > > ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 > 🎯 Futbolchilarning yillik go'llar sonini tahlil qilish va bashorat qilish loyihasi
 
@@ -31,24 +31,26 @@ Bu Data Science loyiha futbolchilarning yillik go'llar sonini tahlil qiladi va M
 
 ## 📁 Loyiha tuzilmasi
 
-<<<<<<< HEAD
+# <<<<<<< HEAD\\
+
 📦 football-goals-analysis/\
 ├── 📓 data_loading.ipynb # Ma'lumotlarni yuklash va dastlabki ko'rish\
 ├── 📓 data_preprocessing.ipynb # Ma'lumotlarni tozalash va tayyorlash\
 ├── 📓 feature_creation.ipynb # Yangi feature'lar yaratish\
 ├── 📓 data_analysis.ipynb # Chuqur tahlil va vizualizatsiya\
 ├── 📓 .ipynb # ML model va bashorat\
-├── 📄 ReadMe.md # Loyiha hujjati\
-=======
-📦 football-goals-analysis/
-├── 📓 data_loading.ipynb # Ma'lumotlarni yuklash va dastlabki ko'rish
-├── 📓 data_preprocessing.ipynb # Ma'lumotlarni tozalash va tayyorlash
-├── 📓 feature_creation.ipynb # Yangi feature'lar yaratish
-├── 📓 data_analysis.ipynb # Chuqur tahlil va vizualizatsiya
-├── 📓 .ipynb # ML model va bashorat
+├── 📄 ReadMe.md # Loyiha hujjati\\
+
+📦 football-goals-analysis/\
+├── 📓 data_loading.ipynb # Ma'lumotlarni yuklash va dastlabki ko'rish\
+├── 📓 data_preprocessing.ipynb # Ma'lumotlarni tozalash va tayyorlash\
+├── 📓 feature_creation.ipynb # Yangi feature'lar yaratish\
+├── 📓 data_analysis.ipynb # Chuqur tahlil va vizualizatsiya\
+├── 📓 .ipynb # ML model va bashorat\
 ├── 📄 ReadMe.md # Loyiha hujjati
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
-└── 📁 data/ # Ma'lumotlar papkasi (agar bo'lsa)
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf\
+> > > > > > > └── 📁 data/ # Ma'lumotlar papkasi (agar bo'lsa)
 
 ## 🛠️ Texnologiyalar
 
@@ -72,10 +74,14 @@ Bu Data Science loyiha futbolchilarning yillik go'llar sonini tahlil qiladi va M
 ## 🚀 O'rnatish va ishga tushirish
 
 <<<<<<< HEAD
+
 ### 1\. Repositoriyani klonlash
-=======
-### 1. Repositoriyani klonlash
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
+
+===
+
+### 1\. Repositoriyani klonlash
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 
 ```bash
 git clone https://github.com/yourusername/football-goals-analysis.git
@@ -83,10 +89,14 @@ cd football-goals-analysis
 ```
 
 <<<<<<< HEAD
+
 ### 2\. Virtual muhit yaratish
-=======
-### 2. Virtual muhit yaratish
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
+
+===
+
+### 2\. Virtual muhit yaratish
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 
 ```bash
 # Virtual muhit yaratish
@@ -100,10 +110,14 @@ source venv/bin/activate
 ```
 
 <<<<<<< HEAD
+
 ### 3\. Kutubxonalarni o'rnatish
-=======
-### 3. Kutubxonalarni o'rnatish
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
+
+===
+
+### 3\. Kutubxonalarni o'rnatish
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
@@ -116,10 +130,14 @@ pip install -r requirements.txt
 ```
 
 <<<<<<< HEAD
+
 ### 4\. Jupyter Notebook ishga tushirish
-=======
-### 4. Jupyter Notebook ishga tushirish
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
+
+===
+
+### 4\. Jupyter Notebook ishga tushirish
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
 
 ```bash
 jupyter notebook
@@ -269,8 +287,8 @@ Pull request'lar qabul qilinadi! Quyidagilarni qo'shishingiz mumkin:
 - Open source data science hamjamiyatiga
 - Futbol statistika ixlosmandlariga
 
-<<<<<<< HEAD
----
-=======
----
->>>>>>> a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
+## <<<<<<< HEAD
+
+## ===
+
+> > > > > > > a6604c81ed2f63abfb6f11f5d2e92331d04cfcbf
