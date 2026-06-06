@@ -1,0 +1,48 @@
+2026-06-06 05:37:12,574 - INFO - Preprocessing boshlandi
+2026-06-06 05:37:12,583 - INFO - Fayl o'qildi! Qatorlar: 380, Ustunlar: 106
+2026-06-06 05:37:12,584 - INFO - Tozalash boshlandi
+2026-06-06 05:37:12,592 - INFO - Tozalash tugadi
+2026-06-06 05:37:12,592 - INFO - Encoding boshlandi
+2026-06-06 05:37:12,598 - INFO - Encoding tugadi
+2026-06-06 05:37:12,599 - INFO - Scaling boshlandi
+2026-06-06 05:37:12,618 - INFO - Scaling tugadi
+2026-06-06 05:37:12,670 - INFO - Fayl saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\clean_data.csv
+2026-06-06 05:37:12,670 - ERROR - \u274c Xatolik: 'charmap' codec can't encode character '\u2705' in position 19: character maps to <undefined>
+2026-06-06 05:43:45,534 - INFO - Preprocessing boshlandi
+2026-06-06 05:43:45,548 - INFO - Fayl o'qildi! Qatorlar: 380, Ustunlar: 106
+2026-06-06 05:43:45,548 - INFO - Tozalash boshlandi
+2026-06-06 05:43:45,559 - INFO - Tozalash tugadi
+2026-06-06 05:43:45,560 - INFO - Encoding boshlandi
+2026-06-06 05:43:45,563 - INFO - Encoding tugadi
+2026-06-06 05:43:45,564 - INFO - Scaling boshlandi
+2026-06-06 05:43:45,573 - INFO - Scaling tugadi
+2026-06-06 05:43:45,626 - INFO - Fayl saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\clean_data.csv
+2026-06-06 09:01:56,103 - INFO - Preprocessing boshlandi
+2026-06-06 09:01:56,105 - ERROR - Fayl topilmadi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\Data\Raw_Datall_stocks.csv
+2026-06-06 09:04:09,810 - INFO - Preprocessing boshlandi
+2026-06-06 09:04:09,820 - INFO - Fayl o'qildi! Qatorlar: 4962, Ustunlar: 10
+2026-06-06 09:04:09,820 - INFO - Tozalash boshlandi
+2026-06-06 09:04:09,822 - INFO - Tozalash tugadi
+2026-06-06 09:04:09,822 - INFO - Encoding boshlandi
+2026-06-06 09:04:09,826 - INFO - Encoding tugadi
+2026-06-06 09:04:09,826 - INFO - Scaling boshlandi
+2026-06-06 09:04:09,830 - INFO - Scaling tugadi
+2026-06-06 09:04:09,882 - INFO - Fayl saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\clean_data.csv
+2026-06-06 09:14:56,160 - INFO - Preprocessing boshlandi
+2026-06-06 09:14:56,168 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10
+2026-06-06 09:14:56,168 - INFO - Tozalash boshlandi
+2026-06-06 09:14:56,170 - INFO - Tozalash tugadi
+2026-06-06 09:14:56,170 - INFO - Encoding boshlandi
+2026-06-06 09:14:56,172 - INFO - Encoding tugadi
+2026-06-06 09:14:56,172 - INFO - Scaling boshlandi
+2026-06-06 09:14:56,175 - INFO - Scaling tugadi
+2026-06-06 09:14:56,199 - INFO - Fayl saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\clean_data.csv
+2026-06-06 09:15:56,667 - INFO - Preprocessing boshlandi
+2026-06-06 09:15:56,676 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10
+2026-06-06 09:15:56,676 - INFO - Tozalash boshlandi
+2026-06-06 09:15:56,677 - INFO - Tozalash tugadi
+2026-06-06 09:15:56,678 - INFO - Encoding boshlandi
+2026-06-06 09:15:56,680 - INFO - Encoding tugadi
+2026-06-06 09:15:56,680 - INFO - Scaling boshlandi
+2026-06-06 09:15:56,683 - INFO - Scaling tugadi
+2026-06-06 09:15:56,708 - INFO - Fayl saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\clean_data.csv

@@ -1,0 +1,352 @@
+2026-06-06 05:09:21,582 - INFO - Log folder created and logging started.
+2026-06-06 05:09:21,582 - WARNING - This is a warning message.
+2026-06-06 05:09:21,583 - ERROR - This is an error message.
+2026-06-06 05:09:23,080 - INFO - Skript boshlandi
+2026-06-06 05:09:23,095 - INFO - Fayl muvaffaqiyatli o'qildi. Qatorlar soni: 380
+2026-06-06 05:09:23,097 - INFO - Skript tugadi
+2026-06-06 05:12:05,516 - INFO - Log folder created and logging started.
+2026-06-06 05:12:05,516 - WARNING - This is a warning message.
+2026-06-06 05:12:05,517 - ERROR - This is an error message.
+2026-06-06 05:12:07,309 - INFO - Skript boshlandi
+2026-06-06 05:12:07,334 - INFO - Fayl muvaffaqiyatli o'qildi. Qatorlar soni: 380
+2026-06-06 05:12:07,335 - INFO - Skript tugadi
+2026-06-06 05:17:23,469 - INFO - Log folder created and logging started.
+2026-06-06 05:17:23,469 - WARNING - This is a warning message.
+2026-06-06 05:17:23,469 - ERROR - This is an error message.
+2026-06-06 05:17:23,469 - INFO - Skript boshlandi
+2026-06-06 05:17:23,469 - INFO - load_data() funksiyasi boshlandi
+2026-06-06 05:17:23,469 - INFO - Fayl o'qilmoqda: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\Global football events and player performance.csv
+2026-06-06 05:17:23,492 - INFO - Fayl o'qildi! Qatorlar: 380, Ustunlar: 106
+2026-06-06 05:17:23,648 - INFO - Skript tugadi
+2026-06-06 05:19:10,115 - INFO - Log folder created and logging started.
+2026-06-06 05:19:10,116 - WARNING - This is a warning message.
+2026-06-06 05:19:10,116 - ERROR - This is an error message.
+2026-06-06 05:19:27,967 - INFO - load_data() funksiyasi boshlandi
+2026-06-06 05:19:27,968 - INFO - Fayl o'qilmoqda: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\Global football events and player performance.csv
+2026-06-06 05:19:27,994 - INFO - Fayl o'qildi! Qatorlar: 380, Ustunlar: 106
+2026-06-06 08:33:55,798 - INFO - Data yuklash boshlandi
+2026-06-06 08:33:55,800 - INFO - AAPL yuklanmoqda...
+2026-06-06 08:34:01,547 - INFO - AAPL saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\AAPL.csv
+2026-06-06 08:34:01,548 - INFO - TSLA yuklanmoqda...
+2026-06-06 08:34:01,702 - INFO - TSLA saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\TSLA.csv
+2026-06-06 08:34:01,702 - INFO - GOOGL yuklanmoqda...
+2026-06-06 08:34:02,022 - INFO - GOOGL saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\GOOGL.csv
+2026-06-06 08:34:02,023 - INFO - MSFT yuklanmoqda...
+2026-06-06 08:34:02,215 - INFO - MSFT saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\MSFT.csv
+2026-06-06 08:34:02,239 - INFO - Barcha data saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\all_stocks.csv
+2026-06-06 08:34:02,284 - INFO - Log folder created and logging started.
+2026-06-06 08:34:02,285 - WARNING - This is a warning message.
+2026-06-06 08:34:02,285 - ERROR - This is an error message.
+2026-06-06 08:34:02,285 - INFO - Skript boshlandi
+2026-06-06 08:34:02,285 - INFO - load_data() funksiyasi boshlandi
+2026-06-06 08:34:02,285 - INFO - Fayl o'qilmoqda: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\Global football events and player performance.csv
+2026-06-06 08:34:02,335 - INFO - Fayl o'qildi! Qatorlar: 380, Ustunlar: 106
+2026-06-06 08:34:02,439 - INFO - Skript tugadi
+2026-06-06 08:37:52,436 - INFO - Data yuklash boshlandi
+2026-06-06 08:37:52,436 - INFO - AAPL yuklanmoqda...
+2026-06-06 08:37:53,568 - INFO - AAPL saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\AAPL.csv
+2026-06-06 08:37:53,568 - INFO - TSLA yuklanmoqda...
+2026-06-06 08:37:53,755 - INFO - TSLA saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\TSLA.csv
+2026-06-06 08:37:53,755 - INFO - GOOGL yuklanmoqda...
+2026-06-06 08:37:53,947 - INFO - GOOGL saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\GOOGL.csv
+2026-06-06 08:37:53,947 - INFO - MSFT yuklanmoqda...
+2026-06-06 08:37:54,162 - INFO - MSFT saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\MSFT.csv
+2026-06-06 08:37:54,174 - INFO - Barcha data saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\all_stocks.csv
+2026-06-06 08:37:54,183 - INFO - Log folder created and logging started.
+2026-06-06 08:37:54,184 - WARNING - This is a warning message.
+2026-06-06 08:37:54,184 - ERROR - This is an error message.
+2026-06-06 08:37:54,184 - INFO - Skript boshlandi
+2026-06-06 08:37:54,184 - INFO - load_data() funksiyasi boshlandi
+2026-06-06 08:37:54,184 - INFO - Fayl o'qilmoqda: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\Data\Raw_Datall_stocks.csv
+2026-06-06 08:37:54,185 - ERROR - \u274c Fayl topilmadi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\Data\Raw_Datall_stocks.csv
+2026-06-06 08:37:54,185 - INFO - Skript tugadi
+2026-06-06 08:43:12,949 - INFO - Log folder created and logging started.
+2026-06-06 08:43:12,949 - WARNING - This is a warning message.
+2026-06-06 08:43:12,950 - ERROR - This is an error message.
+2026-06-06 08:43:12,950 - INFO - Skript boshlandi
+2026-06-06 08:43:12,950 - INFO - Data yuklash boshlandi
+2026-06-06 08:43:12,950 - INFO - AAPL yuklanmoqda...
+2026-06-06 08:43:14,066 - INFO - AAPL saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\AAPL.csv
+2026-06-06 08:43:14,066 - INFO - TSLA yuklanmoqda...
+2026-06-06 08:43:14,274 - INFO - TSLA saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\TSLA.csv
+2026-06-06 08:43:14,275 - INFO - GOOGL yuklanmoqda...
+2026-06-06 08:43:14,451 - INFO - GOOGL saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\GOOGL.csv
+2026-06-06 08:43:14,451 - INFO - MSFT yuklanmoqda...
+2026-06-06 08:43:14,661 - INFO - MSFT saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\MSFT.csv
+2026-06-06 08:43:14,676 - INFO - Barcha data saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\all_stocks.csv
+2026-06-06 08:43:14,676 - INFO - load_data() boshlandi
+2026-06-06 08:43:14,715 - INFO - Fayl o'qildi! Qatorlar: 1004, Ustunlar: 9
+2026-06-06 08:43:14,729 - INFO - Skript tugadi
+2026-06-06 08:46:28,245 - INFO - Skript boshlandi
+2026-06-06 08:46:28,245 - INFO - Data yuklash boshlandi
+2026-06-06 08:46:28,246 - INFO - USD/KRW kursi yuklanmoqda...
+2026-06-06 08:46:29,305 - INFO - USD/KRW kursi olindi!
+2026-06-06 08:46:29,305 - INFO - AAPL yuklanmoqda...
+2026-06-06 08:46:29,498 - INFO - AAPL USD da — o'tkazish shart emas
+2026-06-06 08:46:29,505 - INFO - AAPL saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\AAPL.csv
+2026-06-06 08:46:29,505 - INFO - TSLA yuklanmoqda...
+2026-06-06 08:46:29,656 - INFO - TSLA USD da — o'tkazish shart emas
+2026-06-06 08:46:29,664 - INFO - TSLA saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\TSLA.csv
+2026-06-06 08:46:29,664 - INFO - 005930.KS yuklanmoqda...
+2026-06-06 08:46:29,856 - INFO - 005930.KS KRW dan USD ga o'tkazildi
+2026-06-06 08:46:29,863 - INFO - 005930.KS saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\005930.csv
+2026-06-06 08:46:29,863 - INFO - 000660.KS yuklanmoqda...
+2026-06-06 08:46:30,215 - INFO - 000660.KS KRW dan USD ga o'tkazildi
+2026-06-06 08:46:30,222 - INFO - 000660.KS saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\000660.csv
+2026-06-06 08:46:30,222 - INFO - 066570.KS yuklanmoqda...
+2026-06-06 08:46:30,566 - INFO - 066570.KS KRW dan USD ga o'tkazildi
+2026-06-06 08:46:30,571 - INFO - 066570.KS saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\066570.csv
+2026-06-06 08:46:30,590 - INFO - Barcha data saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\all_stocks.csv
+2026-06-06 08:46:30,590 - INFO - load_data() boshlandi
+2026-06-06 08:46:30,609 - INFO - Fayl o'qildi! Qatorlar: 1231, Ustunlar: 10
+2026-06-06 08:46:30,661 - INFO - Skript tugadi
+2026-06-06 08:57:40,449 - INFO - Skript boshlandi
+2026-06-06 08:57:40,449 - INFO - Data yuklash boshlandi
+2026-06-06 08:57:40,450 - INFO - USD/KRW kursi yuklanmoqda...
+2026-06-06 08:57:44,504 - INFO - USD/KRW kursi olindi!
+2026-06-06 08:57:44,504 - INFO - AAPL yuklanmoqda...
+2026-06-06 08:57:44,697 - INFO - AAPL USD da — o'tkazish shart emas
+2026-06-06 08:57:44,717 - INFO - AAPL saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\AAPL.csv
+2026-06-06 08:57:44,718 - INFO - TSLA yuklanmoqda...
+2026-06-06 08:57:44,871 - INFO - TSLA USD da — o'tkazish shart emas
+2026-06-06 08:57:44,878 - INFO - TSLA saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\TSLA.csv
+2026-06-06 08:57:44,878 - INFO - MSFT yuklanmoqda...
+2026-06-06 08:57:45,059 - INFO - MSFT USD da — o'tkazish shart emas
+2026-06-06 08:57:45,066 - INFO - MSFT saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\MSFT.csv
+2026-06-06 08:57:45,066 - INFO - GOOGL yuklanmoqda...
+2026-06-06 08:57:45,232 - INFO - GOOGL USD da — o'tkazish shart emas
+2026-06-06 08:57:45,238 - INFO - GOOGL saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\GOOGL.csv
+2026-06-06 08:57:45,238 - INFO - AMZN yuklanmoqda...
+2026-06-06 08:57:45,399 - INFO - AMZN USD da — o'tkazish shart emas
+2026-06-06 08:57:45,405 - INFO - AMZN saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\AMZN.csv
+2026-06-06 08:57:45,405 - INFO - META yuklanmoqda...
+2026-06-06 08:57:45,691 - INFO - META USD da — o'tkazish shart emas
+2026-06-06 08:57:45,696 - INFO - META saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\META.csv
+2026-06-06 08:57:45,696 - INFO - NVDA yuklanmoqda...
+2026-06-06 08:57:46,031 - INFO - NVDA USD da — o'tkazish shart emas
+2026-06-06 08:57:46,035 - INFO - NVDA saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\NVDA.csv
+2026-06-06 08:57:46,035 - INFO - NFLX yuklanmoqda...
+2026-06-06 08:57:46,320 - INFO - NFLX USD da — o'tkazish shart emas
+2026-06-06 08:57:46,327 - INFO - NFLX saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\NFLX.csv
+2026-06-06 08:57:46,327 - INFO - INTC yuklanmoqda...
+2026-06-06 08:57:46,748 - INFO - INTC USD da — o'tkazish shart emas
+2026-06-06 08:57:46,753 - INFO - INTC saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\INTC.csv
+2026-06-06 08:57:46,754 - INFO - AMD yuklanmoqda...
+2026-06-06 08:57:47,032 - INFO - AMD USD da — o'tkazish shart emas
+2026-06-06 08:57:47,036 - INFO - AMD saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\AMD.csv
+2026-06-06 08:57:47,036 - INFO - 005930.KS yuklanmoqda...
+2026-06-06 08:57:47,211 - INFO - 005930.KS KRW dan USD ga o'tkazildi
+2026-06-06 08:57:47,215 - INFO - 005930.KS saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\005930.csv
+2026-06-06 08:57:47,215 - INFO - 000660.KS yuklanmoqda...
+2026-06-06 08:57:47,421 - INFO - 000660.KS KRW dan USD ga o'tkazildi
+2026-06-06 08:57:47,426 - INFO - 000660.KS saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\000660.csv
+2026-06-06 08:57:47,426 - INFO - 066570.KS yuklanmoqda...
+2026-06-06 08:57:47,605 - INFO - 066570.KS KRW dan USD ga o'tkazildi
+2026-06-06 08:57:47,609 - INFO - 066570.KS saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\066570.csv
+2026-06-06 08:57:47,609 - INFO - 005380.KS yuklanmoqda...
+2026-06-06 08:57:47,974 - INFO - 005380.KS KRW dan USD ga o'tkazildi
+2026-06-06 08:57:47,979 - INFO - 005380.KS saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\005380.csv
+2026-06-06 08:57:47,979 - INFO - 000270.KS yuklanmoqda...
+2026-06-06 08:57:48,332 - INFO - 000270.KS KRW dan USD ga o'tkazildi
+2026-06-06 08:57:48,337 - INFO - 000270.KS saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\000270.csv
+2026-06-06 08:57:48,337 - INFO - 7203.T yuklanmoqda...
+2026-06-06 08:57:48,896 - INFO - 7203.T USD da — o'tkazish shart emas
+2026-06-06 08:57:48,901 - INFO - 7203.T saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\7203.T.csv
+2026-06-06 08:57:48,901 - INFO - 6758.T yuklanmoqda...
+2026-06-06 08:57:49,260 - INFO - 6758.T USD da — o'tkazish shart emas
+2026-06-06 08:57:49,267 - INFO - 6758.T saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\6758.T.csv
+2026-06-06 08:57:49,267 - INFO - TSM yuklanmoqda...
+2026-06-06 08:57:49,611 - INFO - TSM USD da — o'tkazish shart emas
+2026-06-06 08:57:49,616 - INFO - TSM saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\TSM.csv
+2026-06-06 08:57:49,617 - INFO - BABA yuklanmoqda...
+2026-06-06 08:57:49,895 - INFO - BABA USD da — o'tkazish shart emas
+2026-06-06 08:57:49,901 - INFO - BABA saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\BABA.csv
+2026-06-06 08:57:49,901 - INFO - 1810.HK yuklanmoqda...
+2026-06-06 08:57:50,183 - INFO - 1810.HK USD da — o'tkazish shart emas
+2026-06-06 08:57:50,187 - INFO - 1810.HK saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\1810.HK.csv
+2026-06-06 08:57:50,237 - INFO - Barcha data saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\all_stocks.csv
+2026-06-06 08:57:50,238 - INFO - load_data() boshlandi
+2026-06-06 08:57:50,256 - INFO - Fayl o'qildi! Qatorlar: 4962, Ustunlar: 10
+2026-06-06 08:57:50,275 - INFO - Skript tugadi
+2026-06-06 09:00:11,254 - INFO - Skript boshlandi
+2026-06-06 09:00:11,254 - INFO - Data yuklash boshlandi
+2026-06-06 09:00:11,254 - INFO - KRW=X kursi yuklanmoqda...
+2026-06-06 09:00:12,427 - INFO - KRW=X kursi olindi!
+2026-06-06 09:00:12,427 - INFO - JPY=X kursi yuklanmoqda...
+2026-06-06 09:00:12,726 - INFO - JPY=X kursi olindi!
+2026-06-06 09:00:12,727 - INFO - HKD=X kursi yuklanmoqda...
+2026-06-06 09:00:13,029 - INFO - HKD=X kursi olindi!
+2026-06-06 09:00:13,030 - INFO - AAPL yuklanmoqda...
+2026-06-06 09:00:13,240 - INFO - AAPL USD da — o'tkazish shart emas
+2026-06-06 09:00:13,246 - INFO - AAPL saqlandi!
+2026-06-06 09:00:13,246 - INFO - TSLA yuklanmoqda...
+2026-06-06 09:00:13,395 - INFO - TSLA USD da — o'tkazish shart emas
+2026-06-06 09:00:13,399 - INFO - TSLA saqlandi!
+2026-06-06 09:00:13,399 - INFO - MSFT yuklanmoqda...
+2026-06-06 09:00:13,570 - INFO - MSFT USD da — o'tkazish shart emas
+2026-06-06 09:00:13,574 - INFO - MSFT saqlandi!
+2026-06-06 09:00:13,574 - INFO - GOOGL yuklanmoqda...
+2026-06-06 09:00:13,728 - INFO - GOOGL USD da — o'tkazish shart emas
+2026-06-06 09:00:13,732 - INFO - GOOGL saqlandi!
+2026-06-06 09:00:13,732 - INFO - AMZN yuklanmoqda...
+2026-06-06 09:00:13,893 - INFO - AMZN USD da — o'tkazish shart emas
+2026-06-06 09:00:13,897 - INFO - AMZN saqlandi!
+2026-06-06 09:00:13,897 - INFO - META yuklanmoqda...
+2026-06-06 09:00:14,049 - INFO - META USD da — o'tkazish shart emas
+2026-06-06 09:00:14,052 - INFO - META saqlandi!
+2026-06-06 09:00:14,052 - INFO - NVDA yuklanmoqda...
+2026-06-06 09:00:14,345 - INFO - NVDA USD da — o'tkazish shart emas
+2026-06-06 09:00:14,349 - INFO - NVDA saqlandi!
+2026-06-06 09:00:14,349 - INFO - NFLX yuklanmoqda...
+2026-06-06 09:00:14,501 - INFO - NFLX USD da — o'tkazish shart emas
+2026-06-06 09:00:14,505 - INFO - NFLX saqlandi!
+2026-06-06 09:00:14,505 - INFO - INTC yuklanmoqda...
+2026-06-06 09:00:14,708 - INFO - INTC USD da — o'tkazish shart emas
+2026-06-06 09:00:14,712 - INFO - INTC saqlandi!
+2026-06-06 09:00:14,712 - INFO - AMD yuklanmoqda...
+2026-06-06 09:00:14,858 - INFO - AMD USD da — o'tkazish shart emas
+2026-06-06 09:00:14,865 - INFO - AMD saqlandi!
+2026-06-06 09:00:14,865 - INFO - 005930.KS yuklanmoqda...
+2026-06-06 09:00:15,068 - INFO - 005930.KS USD ga o'tkazildi
+2026-06-06 09:00:15,073 - INFO - 005930.KS saqlandi!
+2026-06-06 09:00:15,073 - INFO - 000660.KS yuklanmoqda...
+2026-06-06 09:00:15,265 - INFO - 000660.KS USD ga o'tkazildi
+2026-06-06 09:00:15,269 - INFO - 000660.KS saqlandi!
+2026-06-06 09:00:15,269 - INFO - 066570.KS yuklanmoqda...
+2026-06-06 09:00:15,458 - INFO - 066570.KS USD ga o'tkazildi
+2026-06-06 09:00:15,462 - INFO - 066570.KS saqlandi!
+2026-06-06 09:00:15,463 - INFO - 005380.KS yuklanmoqda...
+2026-06-06 09:00:15,644 - INFO - 005380.KS USD ga o'tkazildi
+2026-06-06 09:00:15,649 - INFO - 005380.KS saqlandi!
+2026-06-06 09:00:15,650 - INFO - 000270.KS yuklanmoqda...
+2026-06-06 09:00:15,840 - INFO - 000270.KS USD ga o'tkazildi
+2026-06-06 09:00:15,844 - INFO - 000270.KS saqlandi!
+2026-06-06 09:00:15,844 - INFO - 7203.T yuklanmoqda...
+2026-06-06 09:00:16,069 - INFO - 7203.T USD ga o'tkazildi
+2026-06-06 09:00:16,074 - INFO - 7203.T saqlandi!
+2026-06-06 09:00:16,074 - INFO - 6758.T yuklanmoqda...
+2026-06-06 09:00:16,354 - INFO - 6758.T USD ga o'tkazildi
+2026-06-06 09:00:16,364 - INFO - 6758.T saqlandi!
+2026-06-06 09:00:16,364 - INFO - TSM yuklanmoqda...
+2026-06-06 09:00:16,546 - INFO - TSM USD da — o'tkazish shart emas
+2026-06-06 09:00:16,549 - INFO - TSM saqlandi!
+2026-06-06 09:00:16,549 - INFO - BABA yuklanmoqda...
+2026-06-06 09:00:16,699 - INFO - BABA USD da — o'tkazish shart emas
+2026-06-06 09:00:16,703 - INFO - BABA saqlandi!
+2026-06-06 09:00:16,703 - INFO - 1810.HK yuklanmoqda...
+2026-06-06 09:00:16,865 - INFO - 1810.HK USD ga o'tkazildi
+2026-06-06 09:00:16,870 - INFO - 1810.HK saqlandi!
+2026-06-06 09:00:16,922 - INFO - Barcha data saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\all_stocks.csv
+2026-06-06 09:00:16,922 - INFO - load_data() boshlandi
+2026-06-06 09:00:16,940 - INFO - Fayl o'qildi! Qatorlar: 4962, Ustunlar: 10
+2026-06-06 09:00:16,950 - INFO - Skript tugadi
+2026-06-06 09:06:55,583 - INFO - load_data() boshlandi
+2026-06-06 09:06:55,600 - INFO - Fayl o'qildi! Qatorlar: 4962, Ustunlar: 10
+2026-06-06 09:10:10,121 - INFO - load_data() boshlandi
+2026-06-06 09:10:10,134 - INFO - Fayl o'qildi! Qatorlar: 4962, Ustunlar: 10
+2026-06-06 09:12:07,457 - INFO - Skript boshlandi
+2026-06-06 09:12:07,457 - INFO - Data yuklash boshlandi
+2026-06-06 09:12:07,458 - INFO - KRW=X kursi yuklanmoqda...
+2026-06-06 09:12:08,532 - INFO - KRW=X kursi olindi!
+2026-06-06 09:12:08,532 - INFO - JPY=X kursi yuklanmoqda...
+2026-06-06 09:12:08,680 - INFO - JPY=X kursi olindi!
+2026-06-06 09:12:08,680 - INFO - HKD=X kursi yuklanmoqda...
+2026-06-06 09:12:08,830 - INFO - HKD=X kursi olindi!
+2026-06-06 09:12:08,830 - INFO - AAPL yuklanmoqda...
+2026-06-06 09:12:09,031 - INFO - AAPL USD da — o'tkazish shart emas
+2026-06-06 09:12:09,037 - INFO - AAPL saqlandi!
+2026-06-06 09:12:09,037 - INFO - TSLA yuklanmoqda...
+2026-06-06 09:12:09,181 - INFO - TSLA USD da — o'tkazish shart emas
+2026-06-06 09:12:09,185 - INFO - TSLA saqlandi!
+2026-06-06 09:12:09,185 - INFO - MSFT yuklanmoqda...
+2026-06-06 09:12:09,355 - INFO - MSFT USD da — o'tkazish shart emas
+2026-06-06 09:12:09,360 - INFO - MSFT saqlandi!
+2026-06-06 09:12:09,360 - INFO - GOOGL yuklanmoqda...
+2026-06-06 09:12:09,507 - INFO - GOOGL USD da — o'tkazish shart emas
+2026-06-06 09:12:09,511 - INFO - GOOGL saqlandi!
+2026-06-06 09:12:09,511 - INFO - AMZN yuklanmoqda...
+2026-06-06 09:12:09,657 - INFO - AMZN USD da — o'tkazish shart emas
+2026-06-06 09:12:09,661 - INFO - AMZN saqlandi!
+2026-06-06 09:12:09,661 - INFO - META yuklanmoqda...
+2026-06-06 09:12:09,830 - INFO - META USD da — o'tkazish shart emas
+2026-06-06 09:12:09,833 - INFO - META saqlandi!
+2026-06-06 09:12:09,834 - INFO - NVDA yuklanmoqda...
+2026-06-06 09:12:09,999 - INFO - NVDA USD da — o'tkazish shart emas
+2026-06-06 09:12:10,004 - INFO - NVDA saqlandi!
+2026-06-06 09:12:10,004 - INFO - NFLX yuklanmoqda...
+2026-06-06 09:12:10,148 - INFO - NFLX USD da — o'tkazish shart emas
+2026-06-06 09:12:10,152 - INFO - NFLX saqlandi!
+2026-06-06 09:12:10,152 - INFO - INTC yuklanmoqda...
+2026-06-06 09:12:10,333 - INFO - INTC USD da — o'tkazish shart emas
+2026-06-06 09:12:10,337 - INFO - INTC saqlandi!
+2026-06-06 09:12:10,337 - INFO - AMD yuklanmoqda...
+2026-06-06 09:12:10,482 - INFO - AMD USD da — o'tkazish shart emas
+2026-06-06 09:12:10,486 - INFO - AMD saqlandi!
+2026-06-06 09:12:10,487 - INFO - 005930.KS yuklanmoqda...
+2026-06-06 09:12:10,651 - INFO - 005930.KS USD ga o'tkazildi
+2026-06-06 09:12:10,654 - INFO - 005930.KS saqlandi!
+2026-06-06 09:12:10,654 - INFO - 000660.KS yuklanmoqda...
+2026-06-06 09:12:10,830 - INFO - 000660.KS USD ga o'tkazildi
+2026-06-06 09:12:10,834 - INFO - 000660.KS saqlandi!
+2026-06-06 09:12:10,834 - INFO - 066570.KS yuklanmoqda...
+2026-06-06 09:12:11,005 - INFO - 066570.KS USD ga o'tkazildi
+2026-06-06 09:12:11,009 - INFO - 066570.KS saqlandi!
+2026-06-06 09:12:11,009 - INFO - 005380.KS yuklanmoqda...
+2026-06-06 09:12:11,198 - INFO - 005380.KS USD ga o'tkazildi
+2026-06-06 09:12:11,201 - INFO - 005380.KS saqlandi!
+2026-06-06 09:12:11,201 - INFO - 000270.KS yuklanmoqda...
+2026-06-06 09:12:11,391 - INFO - 000270.KS USD ga o'tkazildi
+2026-06-06 09:12:11,394 - INFO - 000270.KS saqlandi!
+2026-06-06 09:12:11,394 - INFO - 7203.T yuklanmoqda...
+2026-06-06 09:12:11,581 - INFO - 7203.T USD ga o'tkazildi
+2026-06-06 09:12:11,586 - INFO - 7203.T saqlandi!
+2026-06-06 09:12:11,586 - INFO - 6758.T yuklanmoqda...
+2026-06-06 09:12:11,777 - INFO - 6758.T USD ga o'tkazildi
+2026-06-06 09:12:11,783 - INFO - 6758.T saqlandi!
+2026-06-06 09:12:11,783 - INFO - TSM yuklanmoqda...
+2026-06-06 09:12:11,957 - INFO - TSM USD da — o'tkazish shart emas
+2026-06-06 09:12:11,961 - INFO - TSM saqlandi!
+2026-06-06 09:12:11,961 - INFO - BABA yuklanmoqda...
+2026-06-06 09:12:12,112 - INFO - BABA USD da — o'tkazish shart emas
+2026-06-06 09:12:12,116 - INFO - BABA saqlandi!
+2026-06-06 09:12:12,117 - INFO - 1810.HK yuklanmoqda...
+2026-06-06 09:12:12,280 - INFO - 1810.HK USD ga o'tkazildi
+2026-06-06 09:12:12,286 - INFO - 1810.HK saqlandi!
+2026-06-06 09:12:12,336 - INFO - Barcha data saqlandi: C:\Users\hamid\Desktop\git_project\Data\Raw_Data\all_stocks.csv
+2026-06-06 09:12:12,337 - INFO - load_data() boshlandi
+2026-06-06 09:12:12,365 - INFO - Fayl o'qildi! Qatorlar: 4962, Ustunlar: 10
+2026-06-06 09:12:12,380 - INFO - Skript tugadi
+2026-06-06 09:14:30,675 - INFO - Skript boshlandi
+2026-06-06 09:14:30,676 - INFO - Data yuklash boshlandi
+2026-06-06 09:14:30,676 - INFO - AAPL yuklanmoqda...
+2026-06-06 09:14:31,774 - INFO - AAPL saqlandi!
+2026-06-06 09:14:31,774 - INFO - TSLA yuklanmoqda...
+2026-06-06 09:14:31,919 - INFO - TSLA saqlandi!
+2026-06-06 09:14:31,919 - INFO - MSFT yuklanmoqda...
+2026-06-06 09:14:32,089 - INFO - MSFT saqlandi!
+2026-06-06 09:14:32,089 - INFO - GOOGL yuklanmoqda...
+2026-06-06 09:14:32,240 - INFO - GOOGL saqlandi!
+2026-06-06 09:14:32,241 - INFO - AMZN yuklanmoqda...
+2026-06-06 09:14:32,383 - INFO - AMZN saqlandi!
+2026-06-06 09:14:32,383 - INFO - META yuklanmoqda...
+2026-06-06 09:14:32,630 - INFO - META saqlandi!
+2026-06-06 09:14:32,631 - INFO - NVDA yuklanmoqda...
+2026-06-06 09:14:32,801 - INFO - NVDA saqlandi!
+2026-06-06 09:14:32,801 - INFO - NFLX yuklanmoqda...
+2026-06-06 09:14:32,947 - INFO - NFLX saqlandi!
+2026-06-06 09:14:32,947 - INFO - INTC yuklanmoqda...
+2026-06-06 09:14:33,158 - INFO - INTC saqlandi!
+2026-06-06 09:14:33,158 - INFO - AMD yuklanmoqda...
+2026-06-06 09:14:33,296 - INFO - AMD saqlandi!
+2026-06-06 09:14:33,296 - INFO - TSM yuklanmoqda...
+2026-06-06 09:14:33,483 - INFO - TSM saqlandi!
+2026-06-06 09:14:33,484 - INFO - BABA yuklanmoqda...
+2026-06-06 09:14:33,630 - INFO - BABA saqlandi!
+2026-06-06 09:14:33,661 - INFO - Barcha data saqlandi: c:\Users\hamid\Desktop\git_project\Data\Raw_Data\all_stocks.csv
+2026-06-06 09:14:33,661 - INFO - load_data() boshlandi
+2026-06-06 09:14:33,677 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10
+2026-06-06 09:14:33,689 - INFO - Skript tugadi
+2026-06-06 09:16:29,478 - INFO - load_data() boshlandi
+2026-06-06 09:16:29,486 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10
+2026-06-06 09:16:43,713 - INFO - load_data() boshlandi
+2026-06-06 09:16:43,720 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10

@@ -1,0 +1,24 @@
+2026-06-06 09:30:43,946 - INFO - Train skript boshlandi
+2026-06-06 09:30:43,989 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 09:30:43,993 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 09:30:43,993 - INFO - LinearRegression o'qitilmoqda...
+2026-06-06 09:30:44,006 - INFO - LinearRegression → R2: 0.9998, MAE: 1.6482
+2026-06-06 09:30:44,007 - INFO - RandomForest o'qitilmoqda...
+2026-06-06 09:30:44,832 - INFO - RandomForest → R2: 0.9996, MAE: 2.1393
+2026-06-06 09:30:44,832 - INFO - XGBoost o'qitilmoqda...
+2026-06-06 09:30:45,162 - INFO - XGBoost → R2: 0.9994, MAE: 2.5293
+2026-06-06 09:30:45,163 - INFO - Eng yaxshi model: LinearRegression — R2: 0.9998
+2026-06-06 09:30:45,168 - INFO - Model saqlandi: c:\Users\hamid\Desktop\git_project\models\best_model.pkl
+2026-06-06 09:30:45,169 - INFO - Train skript tugadi
+2026-06-06 09:33:51,308 - INFO - Train skript boshlandi
+2026-06-06 09:33:51,316 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 09:33:51,318 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 09:33:51,318 - INFO - LinearRegression o'qitilmoqda...
+2026-06-06 09:33:51,321 - INFO - LinearRegression → R2: 0.9998, MAE: 1.6482
+2026-06-06 09:33:51,321 - INFO - RandomForest o'qitilmoqda...
+2026-06-06 09:33:52,153 - INFO - RandomForest → R2: 0.9996, MAE: 2.1393
+2026-06-06 09:33:52,153 - INFO - XGBoost o'qitilmoqda...
+2026-06-06 09:33:52,343 - INFO - XGBoost → R2: 0.9994, MAE: 2.5293
+2026-06-06 09:33:52,343 - INFO - Eng yaxshi model: LinearRegression — R2: 0.9998
+2026-06-06 09:33:52,346 - INFO - Model saqlandi: C:\Users\hamid\Desktop\git_project\models\best_model.pkl
+2026-06-06 09:33:52,346 - INFO - Train skript tugadi
