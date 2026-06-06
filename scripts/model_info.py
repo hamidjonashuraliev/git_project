@@ -6,7 +6,7 @@ import numpy as np
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # ─── Modelni yuklash ───────────────────────────────────
-model_path = os.path.join(BASE_DIR, "models", "best_model.pkl")
+model_path = os.path.join(BASE_DIR, "models", "best_algorithm.pkl")
 model = joblib.load(model_path)
 
 print("=" * 50)

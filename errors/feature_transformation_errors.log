@@ -1,0 +1,9 @@
+2026-06-06 14:43:34,833 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 14:45:04,160 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 14:48:14,506 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 14:57:38,206 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 15:01:15,460 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 15:08:47,371 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 15:14:49,858 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\feature_selection.csv
+2026-06-06 15:16:01,351 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 15:17:36,056 - ERROR - Robust Scaling xatolik: Input X contains infinity or a value too large for dtype('float64').

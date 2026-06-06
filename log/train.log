@@ -478,3 +478,151 @@
 2026-06-06 11:40:35,075 - INFO - Eng yaxshi algorithm: LinearRegression — R2: 0.9998
 2026-06-06 11:40:35,079 - INFO - Algorithm saqlandi: c:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
 2026-06-06 11:40:35,794 - INFO - Train skript tugadi
+2026-06-06 11:59:46,391 - INFO - Train skript boshlandi
+2026-06-06 11:59:46,410 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 11:59:46,414 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 11:59:46,415 - INFO - LinearRegression o'qitilmoqda...
+2026-06-06 11:59:46,419 - INFO - LinearRegression → R2: 0.9998, MAE: 1.6482
+2026-06-06 11:59:46,419 - INFO - LinearRegression to'g'ri ishladi
+2026-06-06 11:59:46,420 - INFO - RandomForest o'qitilmoqda...
+2026-06-06 11:59:47,963 - INFO - RandomForest → R2: 0.9996, MAE: 2.1393
+2026-06-06 11:59:47,964 - INFO - RandomForest to'g'ri ishladi
+2026-06-06 11:59:47,964 - INFO - XGBoost o'qitilmoqda...
+2026-06-06 11:59:48,579 - INFO - XGBoost → R2: 0.9994, MAE: 2.5293
+2026-06-06 11:59:48,579 - INFO - XGBoost to'g'ri ishladi
+2026-06-06 11:59:48,579 - INFO - Eng yaxshi algorithm: LinearRegression — R2: 0.9998
+2026-06-06 11:59:48,583 - INFO - Algorithm saqlandi: c:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 11:59:50,150 - INFO - Train skript tugadi
+2026-06-06 12:02:24,354 - INFO - Train skript boshlandi
+2026-06-06 12:02:24,367 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 12:02:24,373 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 12:02:24,374 - INFO - LinearRegression o'qitilmoqda...
+2026-06-06 12:02:24,382 - INFO - LinearRegression → R2: 0.9998, MAE: 1.6482
+2026-06-06 12:02:24,382 - INFO - LinearRegression to'g'ri ishladi
+2026-06-06 12:02:24,382 - INFO - RandomForest o'qitilmoqda...
+2026-06-06 12:02:25,739 - INFO - RandomForest → R2: 0.9996, MAE: 2.1393
+2026-06-06 12:02:25,740 - INFO - RandomForest to'g'ri ishladi
+2026-06-06 12:02:25,740 - INFO - XGBoost o'qitilmoqda...
+2026-06-06 12:02:26,133 - INFO - XGBoost → R2: 0.9994, MAE: 2.5293
+2026-06-06 12:02:26,134 - INFO - XGBoost to'g'ri ishladi
+2026-06-06 12:02:26,134 - INFO - Eng yaxshi algorithm: LinearRegression — R2: 0.9998
+2026-06-06 12:02:26,138 - INFO - Algorithm saqlandi: c:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 12:02:27,724 - INFO - Train skript tugadi
+2026-06-06 12:19:09,916 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 12:19:09,924 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 12:19:09,949 - INFO - Test data saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\X_test.csv
+2026-06-06 12:19:09,949 - INFO - Test target saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\y_test.csv
+2026-06-06 12:19:09,950 - INFO - LinearRegression o'qitilmoqda...
+2026-06-06 12:19:09,970 - INFO - LinearRegression → R2: 0.9998, MAE: 1.6482
+2026-06-06 12:19:09,973 - INFO - RandomForest o'qitilmoqda...
+2026-06-06 12:19:11,395 - INFO - RandomForest → R2: 0.9996, MAE: 2.1393
+2026-06-06 12:19:11,395 - INFO - XGBoost o'qitilmoqda...
+2026-06-06 12:19:13,191 - INFO - XGBoost → R2: 0.9994, MAE: 2.5293
+2026-06-06 12:19:13,203 - INFO - Eng yaxshi model: LinearRegression
+2026-06-06 12:19:13,204 - INFO - Model saqlandi: c:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 12:19:13,216 - INFO - Training tugadi.
+2026-06-06 12:25:08,367 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 12:25:08,375 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 12:25:08,395 - INFO - Test data saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\X_test.csv
+2026-06-06 12:25:08,396 - INFO - Test target saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\y_test.csv
+2026-06-06 12:25:08,396 - INFO - LinearRegression o'qitilmoqda...
+2026-06-06 12:25:08,410 - INFO - LinearRegression → R2: 0.9998, MAE: 1.6482
+2026-06-06 12:25:08,410 - INFO - RandomForest o'qitilmoqda...
+2026-06-06 12:25:09,904 - INFO - RandomForest → R2: 0.9996, MAE: 2.1393
+2026-06-06 12:25:09,904 - INFO - XGBoost o'qitilmoqda...
+2026-06-06 12:25:11,138 - INFO - XGBoost → R2: 0.9994, MAE: 2.5293
+2026-06-06 12:25:11,141 - INFO - Eng yaxshi model: LinearRegression
+2026-06-06 12:25:11,146 - INFO - Model saqlandi: c:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 12:25:11,178 - INFO - Training tugadi.
+2026-06-06 12:28:22,628 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 12:28:22,638 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 12:28:22,657 - INFO - Test data saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\X_test.csv
+2026-06-06 12:28:22,657 - INFO - Test target saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\y_test.csv
+2026-06-06 12:28:22,658 - INFO - LinearRegression o'qitilmoqda...
+2026-06-06 12:28:22,674 - INFO - LinearRegression → R2: 0.9998, MAE: 1.6482
+2026-06-06 12:28:22,675 - INFO - RandomForest o'qitilmoqda...
+2026-06-06 12:28:24,317 - INFO - RandomForest → R2: 0.9996, MAE: 2.1393
+2026-06-06 12:28:24,318 - INFO - XGBoost o'qitilmoqda...
+2026-06-06 12:28:25,158 - INFO - XGBoost → R2: 0.9994, MAE: 2.5293
+2026-06-06 12:28:25,167 - INFO - Eng yaxshi model: LinearRegression
+2026-06-06 12:28:25,168 - INFO - Model saqlandi: c:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 12:28:25,210 - INFO - Training tugadi.
+2026-06-06 12:35:53,656 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 12:35:53,659 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 12:35:53,668 - INFO - Test data saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\X_test.csv
+2026-06-06 12:35:53,669 - INFO - Test target saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\y_test.csv
+2026-06-06 12:35:53,669 - INFO - LinearRegression o'qitilmoqda...
+2026-06-06 12:35:53,676 - INFO - LinearRegression → R2: 0.9998, MAE: 1.6482
+2026-06-06 12:35:53,677 - INFO - RandomForest o'qitilmoqda...
+2026-06-06 12:35:54,631 - INFO - RandomForest → R2: 0.9996, MAE: 2.1393
+2026-06-06 12:35:54,631 - INFO - XGBoost o'qitilmoqda...
+2026-06-06 12:35:54,890 - INFO - XGBoost → R2: 0.9994, MAE: 2.5293
+2026-06-06 12:35:54,893 - INFO - Eng yaxshi model: LinearRegression
+2026-06-06 12:35:54,894 - INFO - Model saqlandi: c:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 14:12:03,723 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 14:12:03,786 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 14:12:30,101 - INFO - Best params: {'n_estimators': 150, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': None, 'max_depth': None}
+2026-06-06 14:12:30,102 - INFO - Best score: 0.9996
+2026-06-06 14:12:30,189 - INFO - Test R2: 0.9996
+2026-06-06 14:12:30,190 - INFO - Test MAE: 2.1231
+2026-06-06 14:12:30,366 - INFO - Model saqlandi: c:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 14:30:44,535 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 14:30:44,544 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 14:30:44,587 - INFO - X_test saqlandi: C:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\X_test.csv
+2026-06-06 14:30:44,587 - INFO - y_test saqlandi: C:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\y_test.csv
+2026-06-06 14:31:25,490 - INFO - RF best params: {'n_estimators': 150, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': None, 'max_depth': 10}
+2026-06-06 14:31:25,491 - INFO - RF best CV score: 0.9996
+2026-06-06 14:31:25,556 - INFO - RandomForest TEST R2: 0.9996
+2026-06-06 14:31:25,557 - INFO - RandomForest TEST MAE: 2.1345
+2026-06-06 14:31:25,558 - INFO - RandomForest TEST MSE: 10.6918
+2026-06-06 14:31:37,757 - INFO - XGB best params: {'subsample': 0.8, 'n_estimators': 50, 'min_child_weight': 3, 'max_depth': 6, 'learning_rate': 0.2, 'gamma': 0, 'colsample_bytree': 0.8}
+2026-06-06 14:31:37,757 - INFO - XGB best CV score: 0.9995
+2026-06-06 14:31:37,871 - INFO - XGBoost TEST R2: 0.9995
+2026-06-06 14:31:37,871 - INFO - XGBoost TEST MAE: 2.4204
+2026-06-06 14:31:37,871 - INFO - XGBoost TEST MSE: 14.0503
+2026-06-06 14:31:37,884 - INFO - Natijalar jadvali saqlandi: C:\Users\hamid\Desktop\git_project\results\tuning_results.csv
+2026-06-06 14:31:38,111 - INFO - Eng yaxshi model saqlandi: C:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 14:31:38,112 - INFO - Eng yaxshi model tanlandi: RandomForest
+2026-06-06 15:21:02,973 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 15:21:02,976 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 15:21:03,001 - INFO - X_test saqlandi: C:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\X_test.csv
+2026-06-06 15:21:03,002 - INFO - y_test saqlandi: C:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\y_test.csv
+2026-06-06 15:21:27,753 - INFO - RF best params: {'n_estimators': 150, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': None, 'max_depth': 10}
+2026-06-06 15:21:27,753 - INFO - RF best CV score: 0.9996
+2026-06-06 15:21:27,811 - INFO - RandomForest TEST R2: 0.9996
+2026-06-06 15:21:27,812 - INFO - RandomForest TEST MAE: 2.1345
+2026-06-06 15:21:27,812 - INFO - RandomForest TEST MSE: 10.6918
+2026-06-06 15:21:32,751 - INFO - XGB best params: {'subsample': 0.8, 'n_estimators': 50, 'min_child_weight': 3, 'max_depth': 6, 'learning_rate': 0.2, 'gamma': 0, 'colsample_bytree': 0.8}
+2026-06-06 15:21:32,753 - INFO - XGB best CV score: 0.9995
+2026-06-06 15:21:32,999 - INFO - XGBoost TEST R2: 0.9995
+2026-06-06 15:21:33,001 - INFO - XGBoost TEST MAE: 2.4204
+2026-06-06 15:21:33,001 - INFO - XGBoost TEST MSE: 14.0503
+2026-06-06 15:21:33,006 - INFO - Natijalar jadvali saqlandi: C:\Users\hamid\Desktop\git_project\results\tuning_results.csv
+2026-06-06 15:21:33,280 - INFO - Eng yaxshi model saqlandi: C:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 15:21:33,288 - INFO - Eng yaxshi model tanlandi: RandomForest
+2026-06-06 15:32:30,647 - INFO - Tuning boshlandi
+2026-06-06 15:32:30,696 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 15:32:30,708 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 15:32:30,757 - INFO - X_test va y_test saqlandi
+2026-06-06 15:32:57,175 - INFO - RF best params: {'n_estimators': 150, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': None, 'max_depth': 10}
+2026-06-06 15:32:57,175 - INFO - RF best CV R2: 0.9996
+2026-06-06 15:32:57,244 - INFO - RandomForest TEST R2: 0.9996 | MAE: 2.1345 | MSE: 10.6918
+2026-06-06 15:33:02,338 - INFO - XGB best params: {'subsample': 0.8, 'n_estimators': 50, 'min_child_weight': 3, 'max_depth': 6, 'learning_rate': 0.2, 'gamma': 0, 'colsample_bytree': 0.8}
+2026-06-06 15:33:02,339 - INFO - XGB best CV R2: 0.9995
+2026-06-06 15:33:02,474 - INFO - XGBoost TEST R2: 0.9995 | MAE: 2.4204 | MSE: 14.0503
+2026-06-06 15:33:02,480 - INFO - Natijalar saqlandi: C:\Users\hamid\Desktop\git_project\results\tuning_results.csv
+2026-06-06 15:33:02,596 - INFO - Eng yaxshi model saqlandi: RandomForest → C:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 15:33:02,598 - INFO - Tuning tugadi
+2026-06-06 15:39:18,619 - INFO - Tuning boshlandi
+2026-06-06 15:39:18,649 - INFO - Data yuklandi! Shape: (3012, 10)
+2026-06-06 15:39:18,659 - INFO - Train: (2409, 9), Test: (603, 9)
+2026-06-06 15:39:18,688 - INFO - X_test va y_test saqlandi
+2026-06-06 15:39:42,847 - INFO - RF best params: {'n_estimators': 150, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': None, 'max_depth': 10}
+2026-06-06 15:39:42,847 - INFO - RF best CV R2: 0.9996
+2026-06-06 15:39:42,889 - INFO - RandomForest TEST R2: 0.9996 | MAE: 2.1345 | MSE: 10.6918
+2026-06-06 15:39:49,062 - INFO - XGB best params: {'subsample': 0.8, 'n_estimators': 50, 'min_child_weight': 3, 'max_depth': 6, 'learning_rate': 0.2, 'gamma': 0, 'colsample_bytree': 0.8}
+2026-06-06 15:39:49,062 - INFO - XGB best CV R2: 0.9995
+2026-06-06 15:39:49,096 - INFO - XGBoost TEST R2: 0.9995 | MAE: 2.4204 | MSE: 14.0503
+2026-06-06 15:39:49,103 - INFO - Natijalar saqlandi: C:\Users\hamid\Desktop\git_project\results\tuning_results.csv
+2026-06-06 15:39:49,314 - INFO - Eng yaxshi model saqlandi: RandomForest → C:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 15:39:49,315 - INFO - Tuning tugadi

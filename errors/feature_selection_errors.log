@@ -1,0 +1,21 @@
+2026-06-06 14:29:33,539 - ERROR - SelectKBest xatolik: Input X contains infinity or a value too large for dtype('float64').
+2026-06-06 14:29:33,562 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 14:34:12,978 - ERROR - SelectKBest xatolik: Input X contains infinity or a value too large for dtype('float64').
+2026-06-06 14:34:12,991 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 14:35:44,131 - ERROR - SelectKBest xatolik: Input X contains infinity or a value too large for dtype('float64').
+2026-06-06 14:35:44,136 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 14:36:49,544 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 14:37:47,128 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 14:39:18,184 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 14:42:22,018 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 14:44:25,932 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 14:47:48,392 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 14:52:55,245 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 14:54:25,451 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 14:55:37,500 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 14:57:19,102 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 15:00:57,804 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 15:02:36,317 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\featured_data.csv
+2026-06-06 15:02:55,627 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\featured_data.csv
+2026-06-06 15:03:12,710 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').
+2026-06-06 15:13:45,148 - ERROR - Feature Importance xatolik: Input X contains infinity or a value too large for dtype('float32').

@@ -1,0 +1,3 @@
+2026-06-06 12:37:01,855 - INFO - Model yuklandi: c:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 12:37:01,865 - INFO - Data yuklandi: (3012, 10)
+2026-06-06 12:37:01,906 - INFO - Predictions saqlandi: c:\Users\hamid\Desktop\git_project\results\predictions.csv

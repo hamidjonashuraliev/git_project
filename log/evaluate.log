@@ -1,0 +1,46 @@
+2026-06-06 12:10:07,406 - INFO - Evaluation started.
+2026-06-06 12:10:07,406 - INFO - Model path: C:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 12:10:07,406 - INFO - Data path: C:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\clean_data.csv
+2026-06-06 12:10:07,740 - INFO - Model loaded successfully.
+2026-06-06 12:10:07,763 - INFO - Data loaded successfully. Shape: (3012, 10)
+2026-06-06 12:10:07,767 - INFO - Feature shape: (3012, 9), Target shape: (3012,)
+2026-06-06 12:10:07,772 - INFO - Prediction completed.
+2026-06-06 12:10:07,787 - INFO - Metrics saved to C:\Users\hamid\Desktop\git_project\results\evaluation_metrics.csv
+2026-06-06 12:10:08,418 - INFO - Result image saved to C:\Users\hamid\Desktop\git_project\results\evaluation_result.png
+2026-06-06 12:10:08,419 - INFO - R2: 0.9998
+2026-06-06 12:10:08,419 - INFO - MAE: 1.5333
+2026-06-06 12:10:08,419 - INFO - MSE: 5.9667
+2026-06-06 12:10:08,419 - ERROR - TEST ERROR
+2026-06-06 12:10:38,160 - INFO - Evaluation started.
+2026-06-06 12:10:38,160 - INFO - Model path: C:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 12:10:38,160 - INFO - Data path: C:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\clean_data.csv
+2026-06-06 12:10:38,479 - INFO - Model loaded successfully.
+2026-06-06 12:10:38,496 - INFO - Data loaded successfully. Shape: (3012, 10)
+2026-06-06 12:10:38,498 - INFO - Feature shape: (3012, 9), Target shape: (3012,)
+2026-06-06 12:10:38,502 - INFO - Prediction completed.
+2026-06-06 12:10:38,516 - INFO - Metrics saved to C:\Users\hamid\Desktop\git_project\results\evaluation_metrics.csv
+2026-06-06 12:10:39,100 - INFO - Result image saved to C:\Users\hamid\Desktop\git_project\results\evaluation_result.png
+2026-06-06 12:10:39,101 - INFO - R2: 0.9998
+2026-06-06 12:10:39,101 - INFO - MAE: 1.5333
+2026-06-06 12:10:39,101 - INFO - MSE: 5.9667
+2026-06-06 12:21:01,191 - INFO - Model yuklandi: c:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 12:21:01,252 - INFO - Test data yuklandi! X_test: (603, 9), y_test: (603,)
+2026-06-06 12:21:01,258 - INFO - R2: 0.9998
+2026-06-06 12:21:01,259 - INFO - MAE: 1.6482
+2026-06-06 12:21:01,259 - INFO - MSE: 5.9034
+2026-06-06 12:21:01,268 - INFO - evaluation_metrics.csv saqlandi
+2026-06-06 12:21:01,798 - INFO - evaluation_result.png saqlandi
+2026-06-06 12:25:42,223 - INFO - Model yuklandi: c:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 12:25:42,358 - INFO - Test data yuklandi! X_test: (603, 9), y_test: (603,)
+2026-06-06 12:25:42,367 - INFO - R2: 0.9998
+2026-06-06 12:25:42,367 - INFO - MAE: 1.6482
+2026-06-06 12:25:42,367 - INFO - MSE: 5.9034
+2026-06-06 12:25:42,377 - INFO - evaluation_metrics.csv saqlandi
+2026-06-06 12:25:43,407 - INFO - evaluation_result.png saqlandi
+2026-06-06 15:40:57,134 - INFO - Model yuklandi: c:\Users\hamid\Desktop\git_project\models\best_algorithm.pkl
+2026-06-06 15:40:57,250 - INFO - Test data yuklandi! X_test: (603, 9), y_test: (603,)
+2026-06-06 15:40:57,298 - INFO - R2: 0.9996
+2026-06-06 15:40:57,299 - INFO - MAE: 2.1345
+2026-06-06 15:40:57,299 - INFO - MSE: 10.6918
+2026-06-06 15:40:57,310 - INFO - evaluation_metrics.csv saqlandi
+2026-06-06 15:40:59,250 - INFO - evaluation_result.png saqlandi

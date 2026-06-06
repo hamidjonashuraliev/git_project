@@ -18,7 +18,7 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-# 🔥 1. TOZALA
+#  1. TOZALA
 def tozala(df):
     logger.info("Tozalash boshlandi")
     for col in df.columns:
@@ -31,7 +31,7 @@ def tozala(df):
     return df
 
 
-# 🔥 2. ENCODING
+#  2. ENCODING
 def encodla(df):
     logger.info("Encoding boshlandi")
     for col in df.columns:
@@ -42,7 +42,7 @@ def encodla(df):
     return df
 
 
-# 🔥 3. SCALING
+#  3. SCALING
 def scale(df):
     logger.info("Scaling boshlandi")
     scaler = MinMaxScaler()
@@ -52,7 +52,7 @@ def scale(df):
     return df
 
 
-# 🔥 MAIN PIPELINE
+#  MAIN PIPELINE
 def preprocess():
     logger.info("Preprocessing boshlandi")
 

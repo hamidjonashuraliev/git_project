@@ -1,0 +1,24 @@
+2026-06-06 14:31:59,698 - INFO - Transformation skript boshlandi
+2026-06-06 14:34:27,937 - INFO - Transformation skript boshlandi
+2026-06-06 14:35:00,989 - INFO - Transformation skript boshlandi
+2026-06-06 14:43:34,833 - INFO - Transformation skript boshlandi
+2026-06-06 14:43:34,833 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 14:45:04,160 - INFO - Transformation skript boshlandi
+2026-06-06 14:45:04,160 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 14:48:14,505 - INFO - Transformation skript boshlandi
+2026-06-06 14:48:14,506 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 14:57:38,205 - INFO - Transformation skript boshlandi
+2026-06-06 14:57:38,206 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 15:01:15,460 - INFO - Transformation skript boshlandi
+2026-06-06 15:01:15,460 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 15:08:47,370 - INFO - Transformation skript boshlandi
+2026-06-06 15:08:47,371 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 15:14:49,857 - INFO - Transformation skript boshlandi
+2026-06-06 15:14:49,858 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\feature_selection.csv
+2026-06-06 15:16:01,350 - INFO - Transformation skript boshlandi
+2026-06-06 15:16:01,351 - ERROR - Fayl topilmadi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\selected_features.csv
+2026-06-06 15:17:36,029 - INFO - Transformation skript boshlandi
+2026-06-06 15:17:36,052 - INFO - Log Transformation tugadi: ['Volume', 'Volume_MA_7']
+2026-06-06 15:17:36,056 - ERROR - Robust Scaling xatolik: Input X contains infinity or a value too large for dtype('float64').
+2026-06-06 15:17:36,188 - INFO - Transformed data saqlandi: C:\Users\hamid\Desktop\git_project\Data\Engineered_Data\transformed_data.csv
+2026-06-06 15:17:36,223 - INFO - Transformation skript tugadi

@@ -22,3 +22,9 @@
 2026-06-06 10:49:06,985 - INFO - Model testi muvaffaqiyatli!
 2026-06-06 10:49:06,985 - INFO - Testing tugadi: 3/3 passed
 2026-06-06 10:49:06,986 - ERROR - TEST ERROR
+2026-06-06 12:25:22,167 - INFO - Testing boshlandi
+2026-06-06 12:25:24,063 - INFO - Data load testi muvaffaqiyatli!
+2026-06-06 12:25:24,100 - INFO - Preprocessing testi muvaffaqiyatli!
+2026-06-06 12:25:26,457 - INFO - Model testi muvaffaqiyatli!
+2026-06-06 12:25:26,457 - INFO - Testing tugadi: 3/3 passed
+2026-06-06 12:25:26,457 - ERROR - TEST ERROR
