@@ -1,4 +1,2 @@
-import pandas as pd
-import logging
-df=pd.read_csv(r'C:\Users\davro\OneDrive\Desktop\git_project\Data\Raw_Data\ASerie\metadata_serie_a_1415.csv')
 
+2026-06-06 10:49:06,986 - ERROR - TEST ERROR

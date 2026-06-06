@@ -1,0 +1,24 @@
+2026-06-06 09:44:45,506 - INFO - Testing boshlandi
+2026-06-06 09:44:45,956 - INFO - load_data() boshlandi
+2026-06-06 09:44:45,965 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10
+2026-06-06 09:44:53,409 - INFO - Testing boshlandi
+2026-06-06 09:44:53,823 - INFO - load_data() boshlandi
+2026-06-06 09:44:53,840 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10
+2026-06-06 09:46:56,814 - INFO - Testing boshlandi
+2026-06-06 09:46:57,134 - INFO - load_data() boshlandi
+2026-06-06 09:46:57,143 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10
+2026-06-06 09:46:57,144 - INFO - Data load testi muvaffaqiyatli!
+2026-06-06 09:46:57,151 - INFO - Preprocessing testi muvaffaqiyatli!
+2026-06-06 09:46:58,002 - INFO - Model testi muvaffaqiyatli!
+2026-06-06 09:46:58,003 - INFO - Testing tugadi: 3/3 passed
+2026-06-06 10:43:28,964 - INFO - Testing boshlandi
+2026-06-06 10:43:29,720 - INFO - Data load testi muvaffaqiyatli!
+2026-06-06 10:43:29,732 - INFO - Preprocessing testi muvaffaqiyatli!
+2026-06-06 10:43:31,359 - INFO - Model testi muvaffaqiyatli!
+2026-06-06 10:43:31,359 - INFO - Testing tugadi: 3/3 passed
+2026-06-06 10:49:05,710 - INFO - Testing boshlandi
+2026-06-06 10:49:06,092 - INFO - Data load testi muvaffaqiyatli!
+2026-06-06 10:49:06,102 - INFO - Preprocessing testi muvaffaqiyatli!
+2026-06-06 10:49:06,985 - INFO - Model testi muvaffaqiyatli!
+2026-06-06 10:49:06,985 - INFO - Testing tugadi: 3/3 passed
+2026-06-06 10:49:06,986 - ERROR - TEST ERROR
