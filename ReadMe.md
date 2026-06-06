@@ -1,7 +1,131 @@
 <!-- fullWidth: false tocVisible: false tableWrap: true -->
+# Stock Price Prediction - Machine Learning Project
+
+## 📊 Project Description
+
+This project predicts stock prices using Machine Learning algorithms (RandomForest and XGBoost).
+
+## 🚀 Workflow
+
+```mermaid
+flowchart TD
+    A["1. Data Preprocessing"] --> B["2. Feature Engineering"]
+    B --> C["3. Model Training"]
+    C --> D["4. Model Testing"]
+    D --> E["5. Evaluation"]
+    E --> F["6. Hyperparameter Tuning"]
+    F --> G["7. Final Model Selection"]
+    G --> H["8. Save Model"]
+```
+
+## 📁 Project Structure
+
+## 🔧 Libraries
+
+```python
+import pandas as pd
+import joblib
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import LabelEncoder, MinMaxScaler
+from sklearn.model_selection train_test_split, RandomizedSearchCV
+from sklearn.metrics r2_score, mean_absolute_error, mean_squared_error
+from sklearn.ensemble RandomForestRegressor
+from xgboost XGBRegressor
+import yfinance as yf
+```
+
+## 📈 Features Created
+
+- **Moving Average**: MA_7, MA_14, MA_30
+- **Price Change**: Price_Change, Price_Change_7
+- **Volatility**: Volatility_7, Volatility_14
+- **Technical Indicators**: RSI_14
+- **Spread**: HL_Spread, HL_Spread_Pct
+- **Volume**: Volume_Change, Volume_MA_7
+- **Open-Close**: OC_Diff, OC_Diff_Pct
+
+## 🎯 Model Comparison
+
+| Model        | CV R2  | Test R2 | MAE    | MSE    |
+| ------------ | ------ | ------- | ------ | ------ |
+| RandomForest | Tuning | Tuning  | Tuning | Tuning |
+| XGBoost      | Tuning | Tuning  | Tuning | Tuning |
+
+**Eng yaxshi model**: `best_algorithm.pkl` (XGBoost yoki RandomForest)
+
+## 🏃 How to Run
+
+```bash
+# 1. Raw Data yuklash
+cd code
+python data_loader.py
+
+# 2. Preprocessing
+python preprocesser.py
+
+# 3. Feature Engineering
+python create_features.py
+
+# 4. Feature Selection
+python feature_selection.py
+
+# 5. Training + Tuning
+python train.py
+
+# 6. Evaluation
+python evaluate.py
+```
+
+## 📊 Results
+
+- **evaluation_metrics.csv**: R2, MAE, MSE metrikalar
+- **evaluation_result.png**: Grafik (metrikalar ko'rsatiladi)
+- **best_algorithm.pkl**: Eng yaxshi model
+
+## 🎓 Bosqichlar Tahlil
+
+### 1\. Data Preprocessing
+
+- **data_loader.py**: Yahoo Finance dan 12 ta stock yuklash (AAPL, TSLA, MSFT...)
+- **preprocesser.py**: NULL to'ldir → Object→Number → 0-1 skala
+
+### 2\. Feature Engineering
+
+- **create_features.py**: 14 ta yangi feature yaratish (MA, RSI, Volatility...)
+- **feature_selection.py**: Korrelyatsiya → Feature Importance
+
+### 3-4. Model Training + Testing
+
+- **train.py**: Train/Test ajrat → Base model yarat → Prediction olish
+
+### 5\. Evaluation
+
+- **evaluate.py**: R2, MAE, MSE hisoblash → CSV + PNG saqlash
+
+### 6\. Hyperparameter Tuning
+
+- **train.py**: RandomizedSearchCV → Hyperparameter sozlash
+
+### 7\. Final Model Selection
+
+- **train.py**: XGBoost vs RandomForest → Eng yaxshisini tanlash
+
+### 8\. Save Model
+
+- **train.py**: joblib.dump → best_algorithm.pkl saqlash
+
+## 📞 Contact
+
+Khamidjon Ashuraliev\
+Seoul, South Korea
+
+---
+
+
+
+<!-- fullWidth: false tocVisible: false tableWrap: true -->
+
 <div align="center">
-
-
 
 # 🚀 Git Project
 

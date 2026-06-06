@@ -55,3 +55,40 @@
 2026-06-06 15:52:17,263 - INFO - Scaling boshlandi
 2026-06-06 15:52:17,273 - INFO - Scaling tugadi
 2026-06-06 15:52:17,307 - INFO - Fayl saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\clean_data.csv
+2026-06-06 19:24:27,065 - INFO - Preprocessing boshlandi
+2026-06-06 19:24:27,083 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10
+2026-06-06 19:24:27,083 - ERROR - Xatolik: name 'tozala' is not defined
+2026-06-06 19:28:57,210 - INFO - Preprocessing boshlandi
+2026-06-06 19:28:57,223 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10
+2026-06-06 19:28:57,223 - ERROR - Xatolik: name 'tozala' is not defined
+2026-06-06 19:40:04,156 - INFO - Preprocessing boshlandi
+2026-06-06 19:40:04,164 - INFO - Dataset yuklandi
+2026-06-06 19:40:04,164 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10
+2026-06-06 19:40:04,164 - INFO - Tozalash boshlandi
+2026-06-06 19:40:04,170 - INFO - Tozalash tugadi
+2026-06-06 19:40:04,170 - INFO - Encoding boshlandi
+2026-06-06 19:40:04,173 - INFO - Encoding tugadi
+2026-06-06 19:40:04,173 - INFO - Scaling boshlandi
+2026-06-06 19:40:04,184 - INFO - Scaling tugadi
+2026-06-06 19:40:04,210 - INFO - Fayl saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\clean_data.csv
+2026-06-06 20:44:19,169 - INFO - Preprocessing boshlandi
+2026-06-06 20:44:19,179 - INFO - Dataset yuklandi
+2026-06-06 20:44:19,180 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10
+2026-06-06 20:44:19,180 - INFO - Tozalash boshlandi
+2026-06-06 20:44:19,181 - INFO - Tozalash tugadi
+2026-06-06 20:44:19,182 - INFO - Encoding boshlandi
+2026-06-06 20:44:19,185 - INFO - Encoding tugadi
+2026-06-06 20:44:19,185 - INFO - Scaling boshlandi
+2026-06-06 20:44:19,190 - INFO - Scaling tugadi
+2026-06-06 20:44:19,221 - INFO - Fayl saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\clean_data.csv
+2026-06-06 20:47:32,765 - INFO - Preprocessing boshlandi
+2026-06-06 20:47:32,773 - INFO - Dataset yuklandi
+2026-06-06 20:47:32,773 - INFO - Fayl o'qildi! Qatorlar: 3012, Ustunlar: 10
+2026-06-06 20:47:32,773 - INFO - Tozalash boshlandi
+2026-06-06 20:47:32,775 - INFO - Tozalash tugadi
+2026-06-06 20:47:32,775 - INFO - Encoding boshlandi
+2026-06-06 20:47:32,777 - INFO - Encoding tugadi
+2026-06-06 20:47:32,777 - INFO - Scaling boshlandi
+2026-06-06 20:47:32,780 - INFO - Scaling tugadi
+2026-06-06 20:47:32,808 - INFO - Fayl saqlandi: c:\Users\hamid\Desktop\git_project\Data\Preprocessed_Data\clean_data.csv
+2026-06-06 20:49:25,553 - INFO - Dataset yuklandi

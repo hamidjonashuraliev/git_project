@@ -7,6 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score, mean_absolute_error
 from xgboost import XGBRegressor
 import joblib
+from data_preprocessing import DataPreprocessing
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -52,10 +53,12 @@ logger.addHandler(info_handler)
 logger.addHandler(error_handler)
 logger.addHandler(stream_handler)
 
+
 def load_data():
     file_path = os.path.join(data_dir, "clean_data.csv")
     try:
-        df = pd.read_csv(file_path)
+        preprocessor = DataPreprocessing(file_path)
+        df = preprocessor.load_data()
         logger.info(f"Data yuklandi! Shape: {df.shape}")
         return df
     except FileNotFoundError:

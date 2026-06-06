@@ -18,38 +18,51 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-#  1. TOZALA
-def tozala(df):
-    logger.info("Tozalash boshlandi")
-    for col in df.columns:
+
+
+class DataPreprocessing:
+    def __init__(self, file_path):
+        self.file_path = file_path
+
+
+    def load_data(self):
+        df = pd.read_csv(self.file_path)
+        logger.info("Dataset yuklandi")
+        return df
+
+    #  1. TOZALA
+    def tozala(self, df):
+      logger.info("Tozalash boshlandi")
+      for col in df.columns:
         if df[col].isnull().any():
             if df[col].dtype == 'object':
                 df[col] = df[col].fillna(df[col].mode()[0])
             else:
                 df[col] = df[col].fillna(df[col].mean())
-    logger.info("Tozalash tugadi")
-    return df
+      logger.info("Tozalash tugadi")
+      return df
 
 
-#  2. ENCODING
-def encodla(df):
-    logger.info("Encoding boshlandi")
-    for col in df.columns:
+    #  2. ENCODING
+    def encodla(self, df):
+      logger.info("Encoding boshlandi")
+      for col in df.columns:
         if df[col].dtype == 'object':
             encoder = LabelEncoder()
             df[col] = encoder.fit_transform(df[col])
-    logger.info("Encoding tugadi")
-    return df
+      logger.info("Encoding tugadi")
+      return df
 
 
-#  3. SCALING
-def scale(df):
-    logger.info("Scaling boshlandi")
-    scaler = MinMaxScaler()
-    num_col = df.select_dtypes(include=['int64', 'float64']).columns.drop('Close')
-    df[num_col] = scaler.fit_transform(df[num_col])
-    logger.info("Scaling tugadi")
-    return df
+    #  3. SCALING
+    def scale(self, df):
+      logger.info("Scaling boshlandi")
+      scaler = MinMaxScaler()
+      num_col = df.select_dtypes(include=['int64', 'float64']).columns.drop('Close')
+      df[num_col] = scaler.fit_transform(df[num_col])
+
+      logger.info("Scaling tugadi")
+      return df
 
 
 #  MAIN PIPELINE
@@ -60,12 +73,15 @@ def preprocess():
     file_path = os.path.join(BASE_DIR, "Data", "Raw_Data", "all_stocks.csv")
 
     try:
-        df = pd.read_csv(file_path)
+        preprocesser = DataPreprocessing(file_path)
+
+        df = preprocesser.load_data()
         logger.info(f"Fayl o'qildi! Qatorlar: {len(df)}, Ustunlar: {len(df.columns)}")
 
-        df = tozala(df)
-        df = encodla(df)
-        df = scale(df)
+        df = preprocesser.tozala(df)
+        df = preprocesser.encodla(df)
+        df = preprocesser.scale(df)
+
 
         save_dir = os.path.join(BASE_DIR, "Data", "Preprocessed_Data")
         os.makedirs(save_dir, exist_ok=True)
